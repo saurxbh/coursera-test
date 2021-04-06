@@ -6,6 +6,16 @@ h1 {
 	margin-bottom: 15px;
 }
 
+h2 {
+	position: absolute;
+	top: 0px;
+	right: 0px;
+}
+
+div > div {
+	position: absolute;
+}
+
 .row {
 	width:100%;
 }
