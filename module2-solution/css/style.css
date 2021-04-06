@@ -10,11 +10,12 @@ h2 {
 	position: absolute;
 	top: 0px;
 	right: 0px;
+	background-color: blue;
 }
 
 div > div {
 	position: relative;
-	top:10px;
+	top:0px;
 }
 
 .row {
