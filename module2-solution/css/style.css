@@ -13,7 +13,7 @@ h2 {
 }
 
 div > div {
-	position: absolute;
+	position: relative;
 }
 
 .row {
